@@ -14,12 +14,12 @@ locale: de_DE # The value specifies the locale in which these tags are marked up
 #ga4: # Google Analytics 4 measurement ID, for e.g. G-XXXXXXX (optional). Remove it if it’s not needed.
 #twitter:
 #  username: UserName # Used for SEO
-#image:
-#  path: assets/images/example.jpg # Used for SEO (og:image, twitter:image)
-#  type: jpeg # File format of image.
-#  height: 100 # Pixels
-#  width: 100
-#  alt: logo
+image:
+  path: assets/images/example.jpg # Used for SEO (og:image, twitter:image)
+  type: jpeg # File format of image.
+  height: 100 # Pixels
+  width: 100
+  alt: logo
 
 # Verified Badge Configuration
 badge:
