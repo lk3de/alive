@@ -1,10 +1,10 @@
 - name: whatsapp
-  url: https://wa.me/1XXXXXXXXXX
+  url: https://chat.whatsapp.com/KmQ41pdgYKzIBBnOoWUARU
   icon: ri:whatsapp-fill
   color: '#25d366'
 
 - name: telegram
-  url: https://wa.me/1XXXXXXXXXX
+  url: https://t.me/+k3Gp1w7_mYtjMTZi
   icon: ri:telegram-fill
   color: '#24a1de'
 
@@ -15,5 +15,5 @@
   
 - name: website
   url: https://www.gemeinde.weissach.elk-wue.de/
-  icon: ri:external-link-fill
+  icon: ri:cross-fill
   color: '#8e0081'
