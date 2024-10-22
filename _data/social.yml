@@ -15,5 +15,5 @@
   
 - name: website
   url: https://www.gemeinde.weissach.elk-wue.de/
-  icon: ri:cross-fill
+  icon: ri:cross-line
   color: '#8e0081'
