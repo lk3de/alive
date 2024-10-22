@@ -1,6 +1,8 @@
 <main>
     {% for button in site.data.links.buttons %}
+    {% if button.category.strip() %}
     <h2 class="text-center">{{ button.category }}</h2>
+    {% endif %}
     {% for item in button.items %}
     <div class="row">
         {% if item.tag %}
