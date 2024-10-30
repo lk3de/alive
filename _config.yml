@@ -15,8 +15,8 @@ locale: de_DE # The value specifies the locale in which these tags are marked up
 #twitter:
 #  username: UserName # Used for SEO
 image:
-  path: assets/images/logo.png # Used for SEO (og:image, twitter:image)
-  type: png # File format of image.
+  path: assets/images/logo.svg # Used for SEO (og:image, twitter:image)
+  type: svg # File format of image.
   height: 100 # Pixels
   width: 100
   alt: logo
