@@ -4,7 +4,7 @@ Minimal website for Alive. Hosted on Github Pages, deployed via Github Actions, 
 
 ## To Do:
 
-- [ ] Add real logo to `assets/images`
+- [x] Add real logo to `assets/images`
 - [ ] Make site available with correct domain
 
 ## Updates
