@@ -4,7 +4,7 @@ buttons:
   - category: 
     items:
     - title: Zum Livestream
-      url: https://youtube.com/live/uMu73kIGqlM?feature=share
+      url: /live
       icon: ri:youtube-fill
       tag: LIVE
 
