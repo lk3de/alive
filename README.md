@@ -2,9 +2,9 @@
 
 Minimal website for Alive. Hosted on Github Pages, deployed via Github Actions, using Jekyll.
 
-## Updates
+## Update Livestream URL
 
-To update links, edit the [`links.yml`](_data/links.yml) file in the [`_data`](_data/) folder.
+To update the Livestream URL, edit the [`live.md`](live.md) file.
 
 ## Credits
 
