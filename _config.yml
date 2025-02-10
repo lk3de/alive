@@ -41,3 +41,5 @@ exclude: [README.md, Gemfile.lock, .jekyll-cache/, .github/, CHANGELOG.md, Gemfi
 # Redirect plugin
 plugins:
   - jekyll-redirect-from
+redirect_from:
+  json: false
