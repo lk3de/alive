@@ -37,3 +37,7 @@ defaults:
 
 # Exclude
 exclude: [README.md, Gemfile.lock, .jekyll-cache/, .github/, CHANGELOG.md, Gemfile, LICENSE.txt, funding.yml, linkhub-jekyll-theme.gemspec]
+
+# Redirect plugin
+plugins:
+  - jekyll-redirect-from
