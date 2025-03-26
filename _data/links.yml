@@ -3,10 +3,17 @@ icon-position: left # Set to left/right
 buttons:
   - category: 
     items:
-    - title: Zum Livestream
-      url: /live
+
+# Uncomment this section to enable the "Zum Livestream" button
+#    - title: Zum Livestream
+#      url: /live
+#      icon: ri:youtube-fill
+#      tag: LIVE
+
+# Uncomment this section to enable the "Zum letzten Gottesdienst ansehen" button - don't forget to update the link!
+    - title: Zum letzten Gottesdienst 
+      url: https://www.youtube.com/watch?v=crgyLeCQPZE&list=PLFh5H99pTTu8_zjxJGtJV5gHQIeR60Iab
       icon: ri:youtube-fill
-      tag: LIVE
 
     - title: WhatsApp
       url: https://chat.whatsapp.com/KmQ41pdgYKzIBBnOoWUARU
