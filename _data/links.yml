@@ -11,7 +11,7 @@ buttons:
 #      tag: LIVE
 
 # Uncomment this section to enable the "Zum letzten Gottesdienst ansehen" button - don't forget to update the link!
-    - title: Zum neuesten Gottesdienst 
+    - title: Zum neuesten Video 
       url: https://www.youtube.com/playlist?list=PLFh5H99pTTu8_zjxJGtJV5gHQIeR60Iab
       icon: ri:youtube-fill
 
