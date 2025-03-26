@@ -4,7 +4,7 @@ Minimal website for Alive. Hosted on Github Pages, deployed via Github Actions, 
 
 ## Enable/Disable Livestream
 
-To update the description of the `Zum Livestream` button, edit the [`_data/links.yml`] file.
+To update the description of the `Zum Livestream` button, edit the [`_data/links.yml`](data/links.yml) file.
 
 ## Update Livestream URL
 
