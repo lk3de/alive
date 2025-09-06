@@ -10,6 +10,10 @@ To update the buttons (show/hide `Zum Livestream` and `Zum letzten Gottesdienst`
 
 To update the Livestream URL, edit the [`live.md`](live.md) file.
 
+## Update Podcast URL
+
+To update the Podcast URL, edit the [`podcast.md`](podcast.md) file.
+
 ## Credits
 
 Powered by <a href="https://github.com/digitalmalayali/linkhub-jekyll-theme" target="_blank">Linkhub</a>. Code is licensed under <a href="https://github.com/digitalmalayali/linkhub-jekyll-theme/blob/main/LICENSE.txt" target="_blank">MIT</a>.
