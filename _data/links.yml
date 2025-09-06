@@ -19,6 +19,10 @@ buttons:
       url: https://chat.whatsapp.com/KmQ41pdgYKzIBBnOoWUARU
       icon: ri:whatsapp-fill
 
+    - title: Podcast
+      url: /podcast
+      icon: ri:spotify-fill
+
     - title: Telegram
       url: https://t.me/+k3Gp1w7_mYtjMTZi
       icon: ri:telegram-fill
