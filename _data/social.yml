@@ -12,6 +12,11 @@
   url: https://www.youtube.com/playlist?list=PLFh5H99pTTu8_zjxJGtJV5gHQIeR60Iab
   icon: ri:youtube-fill
   color: '#ff0000'
+
+- name: podcast
+  url: /podcast
+  icon: ri:spotify-fill
+  color: '#1db954'
   
 - name: website
   url: https://www.gemeinde.weissach.elk-wue.de/
