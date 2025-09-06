@@ -14,10 +14,6 @@ buttons:
     - title: Zum neuesten Video 
       url: https://www.youtube.com/watch?v=34bjBE_EUsY
       icon: ri:youtube-fill
-
-    - title: Podcast "Alive in Life"
-      url: /podcast
-      icon: ri:spotify-fill
       
     - title: WhatsApp
       url: https://chat.whatsapp.com/KmQ41pdgYKzIBBnOoWUARU
@@ -26,3 +22,7 @@ buttons:
     - title: Telegram
       url: https://t.me/+k3Gp1w7_mYtjMTZi
       icon: ri:telegram-fill
+
+    - title: Podcast "Alive in Life"
+      url: /podcast
+      icon: ri:spotify-fill
