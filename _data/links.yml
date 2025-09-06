@@ -15,7 +15,7 @@ buttons:
       url: https://www.youtube.com/watch?v=34bjBE_EUsY
       icon: ri:youtube-fill
 
-    - title: Podcast
+    - title: Podcast "Alive in Life"
       url: /podcast
       icon: ri:spotify-fill
       
