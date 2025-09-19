@@ -4,7 +4,7 @@ buttons:
   - category: 
     items:
 
- Uncomment this section to enable the "Zum Livestream" button
+# Uncomment this section to enable the "Zum Livestream" button
     - title: Zum Livestream
       url: /live
       icon: ri:youtube-fill
