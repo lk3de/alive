@@ -1,5 +1,5 @@
 ---
 title: Livestream
-redirect_to: https://www.youtube.com/live/P4sJlNCNzWU
+redirect_to: https://www.youtube.com/live/o94cmDm_W8U
 filename: live.md
 --- 
